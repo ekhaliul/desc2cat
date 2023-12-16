@@ -1,0 +1,5 @@
+/venv/
+/.idea/
+/src/desc2cat.egg-info/
+/data/
+/output/
